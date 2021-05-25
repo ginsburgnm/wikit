@@ -1,3 +1,5 @@
+[![CodeQL](https://github.com/ginsburgnm/wikit/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/ginsburgnm/wikit/actions/workflows/codeql-analysis.yml)
+
 # wikit
 
 This is a [wikit](https://github.com/KorySchneider/wikit) clone (or at least most features cloned) for python because I don't like node and don't want to install it, but the wikit tool seemed neat
